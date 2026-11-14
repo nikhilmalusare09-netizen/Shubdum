@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="46" fill="#991B1B" />
+  <circle cx="50" cy="50" r="42" stroke="#F59E0B" stroke-width="2" stroke-dasharray="3 3" />
+  <!-- Bowl / Wok -->
+  <path d="M25 50 C25 68 75 68 75 50 Z" fill="#EA580C" />
+  <ellipse cx="50" cy="50" rx="25" ry="6" fill="#FBBF24" />
+  <!-- Steam / Flavor curls -->
+  <path d="M42 42 C40 34 45 28 41 22" stroke="#FFFBEB" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M50 40 C48 30 54 26 51 18" stroke="#FFFBEB" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M58 42 C56 34 61 28 57 22" stroke="#FFFBEB" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Chopsticks -->
+  <line x1="26" y1="26" x2="68" y2="58" stroke="#FFFBEB" stroke-width="3" stroke-linecap="round" />
+  <line x1="32" y1="24" x2="72" y2="54" stroke="#FFFBEB" stroke-width="3" stroke-linecap="round" />
+</svg>
+
